@@ -1,0 +1,210 @@
+[ {
+	"child" : [ {
+		"name"		: "1996Link_Child",
+		"filter"	: "Link",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Agumon_Child",
+		"filter"	: "Nonhuman",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 0
+	}, {
+		"name"		: "Alonzo_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Athena_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Felicia_Child",
+		"filter"	: "Female",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Felix_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Fox_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Gatomon",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Kristin_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Kristina_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Kyle_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "MMLink_Child",
+		"filter"	: "Link",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 0,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Renamon_Child",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Sonic_Child",
+		"filter"	: "Non-human",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Violet_Child",
+		"filter"	: "Female",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	}, {
+		"name"		: "Xavres_Child",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"deku_shield"	: 1,
+		"hylian_shield"	: 1
+	} ],
+	
+	"adult" : [ {
+		"name"		: "1996Link_Adult",
+		"filter"	: "Link",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Alonzo_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Athena_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Felicia_Adult",
+		"filter"	: "Female",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Felix_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Fox_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 0,
+		"mirror_shield"	: 0
+	}, {
+		"name"		: "Kristin_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Kristina_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "KristinaV2_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Kyle_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "MMLink_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Renamon_Adult",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Sonic_Adult",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Violet_Adult",
+		"filter"	: "Female",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Wargreymon_Adult",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	}, {
+		"name"		: "Xavres_Adult",
+		"filter"	: "Male",
+		"author"	: "Ikey Ilex",
+		"hylian_shield"	: 1,
+		"mirror_shield"	: 1
+	} ]
+} ]
+
+	"mm" : [ {
+		"name"		: "1996Link_MM",
+		"filter"	: "Link",
+		"author"	: "Ikey Ilex"
+	}, {
+		"name"		: "Agumon_MM",
+		"filter"	: "Non-Human",
+		"author"	: "Ikey Ilex"
+	} ]
+} ]
+
+
