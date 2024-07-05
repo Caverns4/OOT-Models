@@ -99,6 +99,13 @@
                 "deku_shield": 1,
                 "hylian_shield": 1
             },
+			{
+                "name": "Tails_Child",
+                "filter": "NonHuman",
+                "author": "Ikey Ilex",
+                "deku_shield": 1,
+                "hylian_shield": 1
+            },
             {
                 "name": "Violet_Child",
                 "filter": "Female",
@@ -207,6 +214,20 @@
                 "mirror_shield": 1
             },
             {
+                "name": "Tails_Adult",
+                "filter": "NonHuman",
+                "author": "Ikey Ilex",
+                "hylian_shield": 1,
+                "mirror_shield": 1
+            },
+            {
+                "name": "TailsWithoutGoogles",
+                "filter": "NonHuman",
+                "author": "Ikey Ilex",
+                "hylian_shield": 1,
+                "mirror_shield": 1
+            },
+            {
                 "name": "Violet_Adult",
                 "filter": "Female",
                 "author": "Ikey Ilex",
@@ -236,6 +257,21 @@
             },
             {
                 "name": "Agumon_MM",
+                "filter": "NonHuman",
+                "author": "Ikey Ilex"
+            },
+            {
+                "name": "Gatomon_MM",
+                "filter": "NonHuman",
+                "author": "Ikey Ilex"
+            },
+            {
+                "name": "Sonic_MM",
+                "filter": "NonHuman",
+                "author": "Ikey Ilex"
+            },
+            {
+                "name": "Tails_MM",
                 "filter": "NonHuman",
                 "author": "Ikey Ilex"
             }
