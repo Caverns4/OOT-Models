@@ -248,33 +248,6 @@
                 "hylian_shield": 1,
                 "mirror_shield": 1
             }
-        ],
-        "mm": [
-            {
-                "name": "1996Link_MM",
-                "filter": "Link",
-                "author": "Ikey Ilex"
-            },
-            {
-                "name": "Agumon_MM",
-                "filter": "NonHuman",
-                "author": "Ikey Ilex"
-            },
-            {
-                "name": "Gatomon_MM",
-                "filter": "NonHuman",
-                "author": "Ikey Ilex"
-            },
-            {
-                "name": "Sonic_MM",
-                "filter": "NonHuman",
-                "author": "Ikey Ilex"
-            },
-            {
-                "name": "Tails_MM",
-                "filter": "NonHuman",
-                "author": "Ikey Ilex"
-            }
         ]
     }
 ]
