@@ -30,6 +30,13 @@
                 "hylian_shield": 1
             },
             {
+                "name": "BlackGatomon_child",
+                "filter": "Nonhuman",
+                "author": "Ikey Ilex",
+                "deku_shield": 1,
+                "hylian_shield": 1
+            },
+            {
                 "name": "Felicia_Child",
                 "filter": "Female",
                 "author": "Ikey Ilex",
@@ -137,11 +144,25 @@
                 "mirror_shield": 1
             },
             {
+                "name": "Angewomon_Adult",
+                "filter": "Female",
+                "author": "Ikey Ilex",
+                "hylian_shield": 1,
+                "mirror_shield": 0
+            },
+            {
                 "name": "Athena_Adult",
                 "filter": "Male",
                 "author": "Ikey Ilex",
                 "hylian_shield": 1,
                 "mirror_shield": 1
+            },
+            {
+                "name": "BlackGatomon_Adult",
+                "filter": "Female",
+                "author": "Ikey Ilex",
+                "hylian_shield": 1,
+                "mirror_shield": 0
             },
             {
                 "name": "Felicia_Adult",
@@ -162,6 +183,13 @@
                 "filter": "Male",
                 "author": "Ikey Ilex",
                 "hylian_shield": 0,
+                "mirror_shield": 0
+            },
+            {
+                "name": "Gatomon_Adult",
+                "filter": "Female",
+                "author": "Ikey Ilex",
+                "hylian_shield": 1,
                 "mirror_shield": 0
             },
             {
