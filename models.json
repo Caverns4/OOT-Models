@@ -73,7 +73,14 @@
             },
             {
                 "name": "Kristina_Child",
-                "filter": "Male",
+                "filter": "Other",
+                "author": "Ikey Ilex",
+                "deku_shield": 1,
+                "hylian_shield": 1
+            },
+            {
+                "name": "Kristina_Tunic_Child",
+                "filter": "Other",
                 "author": "Ikey Ilex",
                 "deku_shield": 1,
                 "hylian_shield": 1
@@ -201,14 +208,14 @@
             },
             {
                 "name": "Kristina_Adult",
-                "filter": "Male",
+                "filter": "Other",
                 "author": "Ikey Ilex",
                 "hylian_shield": 1,
                 "mirror_shield": 1
             },
             {
-                "name": "KristinaV2_Adult",
-                "filter": "Male",
+                "name": "Kristina_Tunic_Adult",
+                "filter": "Other",
                 "author": "Ikey Ilex",
                 "hylian_shield": 1,
                 "mirror_shield": 1
@@ -249,7 +256,7 @@
                 "mirror_shield": 1
             },
             {
-                "name": "TailsWithoutGoogles",
+                "name": "TailsWithoutGoogles_Adult",
                 "filter": "NonHuman",
                 "author": "Ikey Ilex",
                 "hylian_shield": 1,
